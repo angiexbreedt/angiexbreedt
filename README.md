@@ -1,5 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Angelique</h1>
 
+<!-- Typing SVG -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Computer+Science+Student+;Software+Developer+in+Progress+;Tech+Enthusiast+" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center">💻 Computer Science Student | 🌱 Software Developer in Progress | 🚀 Tech Enthusiast</h3>
 
 ---
