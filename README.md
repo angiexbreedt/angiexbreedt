@@ -14,8 +14,21 @@
 ### 🧠 About Me  
 - 🎓 Final-year **BSc Computer Science** student passionate about **software design, AI, and cyber security**  
 - 💡 Love turning ideas into reality through **clean, maintainable code**  
-- 🌍 Based in South Africa 🇿🇦  
-- ⚡ Fun fact: I enjoy working on creative side projects 
+- 🌍 Based in **South Africa 🇿🇦**  
+- ⚡ Fun fact: I enjoy working on **creative side projects**  
+- ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
+
+---
+
+### 🧘‍♀️ Beyond the Code  
+When I’m not immersed in tech, you’ll probably find me:  
+- 🏋️‍♀️ **At the gym**, chasing progress and strength — both mental and physical  
+- 🧘‍♀️ **Meditating**, finding balance and clarity in a fast-paced world  
+- 🐾 **Advocating for animals**, because every voice matters  
+- 🌿 **Exploring nature**, where peace and perspective come naturally  
+- 🎨 **Appreciating art and music**, for emotion and creativity  
+
+> 🌸 **Philosophy:** *Choose kindness — for all other humans, animals, and this beautiful planet we live on.🌿*  
 
 ---
 
@@ -35,10 +48,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
 
 ---
 
