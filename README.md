@@ -25,6 +25,7 @@ When I’m not immersed in tech, you’ll probably find me:
 - 🏋️‍♀️ **At the gym**, chasing progress and strength — both mental and physical  
 - 🧘‍♀️ **Meditating**, finding balance and clarity in a fast-paced world  
 - 🐾 **Advocating for animals**, because every voice matters  
+- 💬 **Learning Spanish**, porque es un idioma muy bonito
 - 🌿 **Exploring nature**, where peace and perspective come naturally  
 - 🎨 **Appreciating art and music**, for emotion and creativity  
 
@@ -72,6 +73,10 @@ When I’m not immersed in tech, you’ll probably find me:
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlmZ3Y3a2huY3F6MXU5MXhtbG1jbjg3ZTk5NHI1czd4eDRuZXBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x45I8CY1Vs45G/giphy.gif" width="950" alt="Aesthetic coding GIF" />
+</div>
 
 ⭐ **“Code is like humor — when you have to explain it, it’s bad.”**
 
