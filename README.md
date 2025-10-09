@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 - 🎓 Final-year **BSc Computer Science** student passionate about **software design, AI, and cyber security**  
 - 💡 Love turning ideas into reality through **clean, maintainable code**  
 - 🌍 Based in **South Africa 🇿🇦**  
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧘‍♀️ Beyond the Code  
+### Beyond the Code  
 When I’m not immersed in tech, you’ll probably find me:  
 - 🏋️‍♀️ **At the gym**, chasing progress and strength — both mental and physical  
 - 🧘‍♀️ **Meditating**, finding balance and clarity in a fast-paced world  
