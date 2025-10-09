@@ -76,7 +76,11 @@ When I’m not immersed in tech, you’ll probably find me:
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlmZ3Y3a2huY3F6MXU5MXhtbG1jbjg3ZTk5NHI1czd4eDRuZXBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x45I8CY1Vs45G/giphy.gif" width="950" alt="Aesthetic coding GIF" />
+  <br/>
+  <sub> <i> <a href="https://giphy.com/gifs/x45I8CY1Vs45G" target="_blank">GIPHY</a></i></sub>
 </div>
+
+
 
 ⭐ **“Code is like humor — when you have to explain it, it’s bad.”**
 
