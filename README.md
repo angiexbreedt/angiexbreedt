@@ -15,7 +15,6 @@
 - 🎓 Final-year **BSc Computer Science** student passionate about **software design, AI, and cyber security**  
 - 💡 Love turning ideas into reality through **clean, maintainable code**  
 - 🌍 Based in **South Africa 🇿🇦**  
-- ⚡ Fun fact: I enjoy working on **creative side projects**  
 - ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
 
 ---
@@ -86,5 +85,4 @@ When I’m not immersed in tech, you’ll probably find me:
 
 
 
-⭐ **“Code is like humor — when you have to explain it, it’s bad.”**
 
