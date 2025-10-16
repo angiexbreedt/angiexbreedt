@@ -7,14 +7,13 @@
   </a>
 </h1>
 
-<h3 align="center">💻 Computer Science Student | 🌱 Software Developer in Progress | 🚀 Tech Enthusiast</h3>
+<h3 align="center"> Computer Science Student  |  Software Developer in Progress  |  Tech Enthusiast</h3>
 
 ---
 
 ### About Me  
-- 🎓 Final-year **BSc Computer Science** student passionate about **software design, AI, and cyber security**  
-- 💡 Love turning ideas into reality through **clean, maintainable code**  
-- 🌍 Based in **South Africa 🇿🇦**  
+- 💻 Final-year **BSc Computer Science** student interested in **software engineering and cybersecurity**  
+- 💡 I love turning ideas into reality through **clean, maintainable code**  
 - ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
 
 ---
@@ -23,10 +22,8 @@
 When I’m not immersed in tech, you’ll probably find me:  
 - 🏋️‍♀️ **At the gym**, chasing progress and strength — both mental and physical  
 - 🧘‍♀️ **Meditating**, finding balance and clarity in a fast-paced world  
-- 🐾 **Advocating for animals**, because every voice matters  
-- 💬 **Learning Spanish**, porque es un idioma muy bonito
-- 🌿 **Exploring nature**, where peace and perspective come naturally  
-- 🎨 **Appreciating art and music**, for emotion and creativity  
+- 🌱 **Advocating for animals**, because every voice matters  
+- 💬 **Learning Spanish**, porque es un idioma muy bonito 
 
 > 🌸 **Philosophy:** *Choose kindness — for all other humans, animals, and this beautiful planet we live on.🌿*  
 
@@ -75,7 +72,6 @@ When I’m not immersed in tech, you’ll probably find me:
   </a>
 </p>
 
----
 
 <!--
 <div align="center">
