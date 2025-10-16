@@ -7,8 +7,9 @@
   </a>
 </h1>
 
+<!--
 <h3 align="center"> Computer Science Student  |  Software Developer in Progress  |  Tech Enthusiast</h3>
-
+-->
 ---
 
 ### About Me  
