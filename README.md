@@ -73,6 +73,14 @@ When I’m not immersed in tech, you’ll probably find me:
 </p>
 
 
+### GitHub Accounts
+ <a href="https://github.com/angiexbreedt" target="_blank">
+    <img src="https://img.shields.io/badge/Uni%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/angiexbreedt2" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 <!--
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlmZ3Y3a2huY3F6MXU5MXhtbG1jbjg3ZTk5NHI1czd4eDRuZXBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x45I8CY1Vs45G/giphy.gif" width="950" alt="Aesthetic coding GIF" />
