@@ -12,7 +12,8 @@
 -->
 
 ### About Me  
-- 💻 Final-year **BSc Computer Science** student interested in **software engineering and cybersecurity**  
+- 💻 **BScHons Computer Science** student interested in **software engineering**
+- ☀️ **Artifical Intelligence and Cybersecurity Enthusiast**  
 - 💡 I love turning ideas into reality through **clean, maintainable code**  
 - ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
 
