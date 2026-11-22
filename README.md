@@ -3,7 +3,7 @@
 <!-- Typing SVG -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Computer+Science+Student+;Software+Developer;Tech+Enthusiast+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=BScHons+Computer+Science+Graduate+;Graduate+Software+Engineer;Tech+Enthusiast+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,9 +12,10 @@
 -->
 
 ### About Me  
-- 💻 **BScHons Computer Science** student interested in **software engineering**
-- ☀️ **Artifical Intelligence and Cybersecurity Enthusiast**  
-- 💡 I love turning ideas into reality through **clean, maintainable code**  
+- 💻 Studied **BSc Computer Science** 2023-2025 & **BScHons Computer Science** at The University of Pretoria in 2026
+- 🧰 2027 Graduate Software Engineer
+- 💡 **Artifical Intelligence and Cybersecurity Enthusiast**  
+- 🛠️ I love turning ideas into reality through **clean, maintainable code**  
 - ☀️ I believe in lifelong learning, positive impact, and growing a little more every day  
 
 ---
